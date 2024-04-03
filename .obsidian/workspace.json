@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "0846d42773cf6695",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ad9eaa085834e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6759a3e3c3fab907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C17基础/基础知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2431c0ce5eafc1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cd6bd96482bdc5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构和算法/算法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41b6cb6329c410bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87a047223b3905a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4bd056f9795d5c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e162a3fbf63303b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63409c8c1fc03642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7180e22cec243cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "79d701f62ed2106f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e02c39483dbf3ae4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d75ed3802f0a7bb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fee04782382bda06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e6e51e6b77f8016",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/git.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2431c0ce5eafc1a1",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/02_Singleton/Properties/AssemblyInfo.cs",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/Utilities.vcxproj.filters",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/Utilities.vcxproj",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/Tree.h",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/Tree.cpp",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/StringUtil.h",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/StringUtil.cpp",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/List.h",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/List.cpp",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/Array.h",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/68_CommonParentInTree/资源必读.jpg",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/67_StringToInt/资源必读.jpg",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/66_ConstuctArray/资源必读.jpg",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/56_01_NumbersAppearOnce/资源必读.jpg",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/55_02_BalancedBinaryTree/资源必读.jpg",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/43_NumberOf1/资源必读.jpg",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/39_MoreThanHalfNumber/资源必读.jpg",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/36_ConvertBinarySearchTree/资源必读.jpg",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/26_SubstructureInTree/资源必读.jpg",
+    "书籍/剑指offer第二版/CodingInterviewChinese2/20_NumericStrings/资源必读.jpg",
+    "README.md",
+    "MyWebServer_KIGOLF/MyWebServer_KIGOLF.md",
+    "Git/git.md",
+    "C17基础/基础知识.md",
+    "CMake/CMake.md",
+    "WebServer.md",
+    "未命名.md",
+    "数据结构和算法/算法.md",
+    "README.md.md",
+    "（为什么）.md"
+  ]
+}
