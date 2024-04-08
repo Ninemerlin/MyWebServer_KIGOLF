@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2431c0ce5eafc1a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2cd6bd96482bdc5a",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d7180e22cec243cc",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git.md",
+                "file": "C17基础/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git.md",
+                "file": "C17基础/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git.md"
+                "file": "C17基础/基础知识.md"
               }
             }
           }
@@ -159,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +160,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2431c0ce5eafc1a1",
+  "active": "6759a3e3c3fab907",
   "lastOpenFiles": [
+    "C17基础/attachments/Pasted image 20240407222510.png",
+    "C17基础/attachments/Pasted image 20240407200432.png",
+    "CMake/CMake.md",
+    "Git/git.md",
     "新建 文本文档.txt",
     "书籍/剑指offer第二版/CodingInterviewChinese2/02_Singleton/Properties/AssemblyInfo.cs",
     "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/Utilities.vcxproj.filters",
@@ -183,7 +176,6 @@
     "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/StringUtil.cpp",
     "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/List.h",
     "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/List.cpp",
-    "书籍/剑指offer第二版/CodingInterviewChinese2/Utilities/Array.h",
     "书籍/剑指offer第二版/CodingInterviewChinese2/68_CommonParentInTree/资源必读.jpg",
     "书籍/剑指offer第二版/CodingInterviewChinese2/67_StringToInt/资源必读.jpg",
     "书籍/剑指offer第二版/CodingInterviewChinese2/66_ConstuctArray/资源必读.jpg",
@@ -193,12 +185,9 @@
     "书籍/剑指offer第二版/CodingInterviewChinese2/39_MoreThanHalfNumber/资源必读.jpg",
     "书籍/剑指offer第二版/CodingInterviewChinese2/36_ConvertBinarySearchTree/资源必读.jpg",
     "书籍/剑指offer第二版/CodingInterviewChinese2/26_SubstructureInTree/资源必读.jpg",
-    "书籍/剑指offer第二版/CodingInterviewChinese2/20_NumericStrings/资源必读.jpg",
     "README.md",
     "MyWebServer_KIGOLF/MyWebServer_KIGOLF.md",
-    "Git/git.md",
     "C17基础/基础知识.md",
-    "CMake/CMake.md",
     "WebServer.md",
     "未命名.md",
     "数据结构和算法/算法.md",
